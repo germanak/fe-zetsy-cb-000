@@ -33,6 +33,10 @@ h1 {
 	font: 100 5em 'Baskerville';
 }
 
+hr {
+	border: 1px solid #ccc;
+}
+
 h1, h2 {
 	color: #ccc;
 }
