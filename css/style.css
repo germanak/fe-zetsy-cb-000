@@ -41,6 +41,10 @@ img {
 	max-width: 100%;
 }
 
+#press a {
+	display: inline-block;
+}
+
 
 .clearfix:after {
 	content: "";
