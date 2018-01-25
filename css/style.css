@@ -47,6 +47,10 @@ img {
 	border: 5px solid rgb(190, 190, 190);
 }
 
+#press img {
+	display: inline-block;
+}
+
 .clearfix:after {
 	content: "";
 	display: table;
