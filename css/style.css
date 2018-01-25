@@ -68,6 +68,7 @@ footer {
 	border: 5px solid rgb(111,127,122);
 	max-width: 90%;
 	padding: 1px;
+	clear: none;
 }
 
 #press img:hover {
