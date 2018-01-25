@@ -49,6 +49,10 @@ header a {
 	text-decoration: none;
 }
 
+header a:hover {
+	color: #ccc;
+}
+
 footer {
 	text-align: right;
 	font-size: 0.8em;
