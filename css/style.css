@@ -50,6 +50,7 @@ img {
 #featured a {
 	text-decoration: none;
 	color: rgb(0,191,255);
+}
 
 .clearfix:after {
 	content: "";
