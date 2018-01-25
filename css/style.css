@@ -56,6 +56,9 @@ footer {
 	color: rgb(0,191,255);
 }
 
+#press a {
+	display: inline-block;
+}
 
 .clearfix:after {
 	content: "";
