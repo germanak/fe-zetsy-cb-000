@@ -42,6 +42,7 @@ img {
 }
 
 #press a {
+	border: 5px solid #ccc;
 	display: inline-block;
 }
 
