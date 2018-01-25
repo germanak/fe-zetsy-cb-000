@@ -73,3 +73,9 @@ footer {
 #press img:hover {
 	border: 5px solid #ccc;
 }
+
+clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
