@@ -31,7 +31,7 @@ body {
 h1 {
 	margin: 0;
 	font: 100 5em 'Baskerville';
-	color: rgb(111,127,122);
+	color: #ccc;
 }
 
 hr {
