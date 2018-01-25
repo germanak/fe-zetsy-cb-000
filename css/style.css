@@ -51,6 +51,10 @@ img {
 	text-decoration: none;
 }
 
+#featured a:link {
+	color: rgb(135,206,250);
+}
+
 .clearfix:after {
 	content: "";
 	display: table;
