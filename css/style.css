@@ -40,3 +40,10 @@ h1, h2 {
 img {
 	max-width: 100%;
 }
+
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
