@@ -34,7 +34,7 @@ h1 {
 }
 
 hr {
-	border: 1px solid #ccc;
+	border: 1px solid rbg(190, 190, 190);
 	margin: 5px 0;
 }
 
