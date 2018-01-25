@@ -59,6 +59,10 @@ footer {
 	color: rgb(0,191,255);
 }
 
+#press {
+	margin-bottom: 20px;
+}
+
 #press img {
 	display: inline-block;
 	padding: 1px;
