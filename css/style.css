@@ -47,7 +47,7 @@ img {
 	border: 5px solid rgb(190, 190, 190);
 }
 
-#press img {
+#press a img {
 	display: inline-block;
 }
 
