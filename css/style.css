@@ -42,14 +42,9 @@ h1, h2 {
 	color: #ccc;
 }
 
-img,
-#press img {
+img {
 	max-width: 100%;
-}
-
-#press a {
 	border: 5px solid #ccc;
-	display: inline-block;
 }
 
 .clearfix:after {
