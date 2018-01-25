@@ -29,7 +29,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	margin: 0;
+	margin: 10px 0 0;
 	font: 100 5em 'Baskerville';
 	color: rgb(111,127,122);
 }
