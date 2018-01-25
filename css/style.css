@@ -42,7 +42,7 @@ h1, h2 {
 	color: rgb(190, 190, 190);
 }
 
-img {
+#featured img {
 	max-width: 100%;
 	border: 5px solid rgb(190, 190, 190);
 }
