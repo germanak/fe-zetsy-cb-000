@@ -37,7 +37,8 @@ h1, h2 {
 	color: #ccc;
 }
 
-img {
+img,
+#press img {
 	max-width: 100%;
 }
 
@@ -45,7 +46,6 @@ img {
 	border: 5px solid #ccc;
 	display: inline-block;
 }
-
 
 .clearfix:after {
 	content: "";
