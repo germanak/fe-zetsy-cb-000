@@ -69,6 +69,11 @@ footer {
 	color: rgb(0,191,255);
 }
 
+#featured p {
+	font-size: 1em;
+	color: rgb(111,127,122)
+}
+
 #featured a:hover {
 	text-decoration: underline;
 }
